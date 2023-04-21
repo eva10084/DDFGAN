@@ -1,0 +1,5 @@
+\data\ct\ct_train\image\ct_train_1001_image.nii\z\43.png
+\data\ct\ct_train\image\ct_train_1001_image.nii\z\44.png
+\data\ct\ct_train\image\ct_train_1001_image.nii\z\45.png
+\data\ct\ct_train\image\ct_train_1001_image.nii\z\46.png
+\data\ct\ct_train\image\ct_train_1001_image.nii\z\47.png

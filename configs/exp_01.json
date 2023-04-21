@@ -1,0 +1,8 @@
+{
+  "pool_size": 5,
+  "base_lr":0.0002,
+  "max_step": 10,
+  "do_flipping": 1,
+  "_LAMBDA_A": 10,
+  "_LAMBDA_B": 10
+}
